@@ -1,0 +1,2 @@
+#about .feature-card{display:flex;align-items:flex-start}#about .feature-card>i{position:absolute;top:24px;left:23px}#about .feature-card h3{top:88px;bottom:auto;margin:0;max-width:calc(100% - 40px);z-index:2}#about .feature-card span{z-index:2}
+@media(max-width:575px){#about .feature-card h3{top:78px;font-size:1.12rem}#about .feature-card>i{top:20px}}
